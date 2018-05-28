@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 5e932024b7b614debbc3dc66408c9884
+timeCreated: 1470995806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spartan
+    21300002: Joker
+    21300004: Pirate
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Spartan
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 152
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 30.5}
+        - {x: 48, y: 116.5}
+        - {x: -48, y: 116.5}
+        - {x: -79, y: 31.5}
+        - {x: -79, y: -49.5}
+        - {x: -52, y: -116.5}
+        - {x: 52, y: -116.5}
+        - {x: 58, y: -52.5}
+        - {x: 79, y: -47.5}
+        - {x: 79, y: 30.5}
+    - name: Joker
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 155
+        width: 156
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 124.5}
+        - {x: -44, y: 124.5}
+        - {x: -73, y: 78.5}
+        - {x: -77, y: 39.5}
+        - {x: -78, y: 26.5}
+        - {x: -78, y: -79.5}
+        - {x: -48, y: -124.5}
+        - {x: 47, y: -124.5}
+        - {x: 78, y: -60.5}
+        - {x: 78, y: 42.5}
+        - {x: 64, y: 118.5}
+    - name: Pirate
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 155
+        width: 156
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 141.5}
+        - {x: -22, y: 141.5}
+        - {x: -78, y: 116.5}
+        - {x: -78, y: 79.5}
+        - {x: -71, y: 63.5}
+        - {x: -78, y: 15.5}
+        - {x: -78, y: -98.5}
+        - {x: -47, y: -141.5}
+        - {x: 48, y: -141.5}
+        - {x: 78, y: -73.5}
+        - {x: 78, y: 102.5}
+        - {x: 75, y: 108.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

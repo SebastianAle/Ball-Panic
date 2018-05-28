@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 1a1ebfa09aa33451583cc291fa6921c0
+timeCreated: 1470991395
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Repeat Level Button
+    21300002: Go To Map Button
+    21300004: Next Level Button
+    21300006: Resume Game Button
+    21300008: Coin Score Button
+    21300010: Score
+    21300012: Pause Button
+    21300014: Coin UI
+    21300016: Lock
+    21300018: Facebook Icon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Repeat Level Button
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 396
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 56}
+        - {x: -55.5, y: 33}
+        - {x: -55.5, y: -37}
+        - {x: -34.5, y: -56}
+        - {x: 30.5, y: -56}
+        - {x: 55.5, y: -33}
+        - {x: 55.5, y: 33}
+        - {x: 29.5, y: 56}
+    - name: Go To Map Button
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 396
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 55.5}
+        - {x: -55.5, y: 45.5}
+        - {x: -55.5, y: -39.5}
+        - {x: -46.5, y: -55.5}
+        - {x: 54.5, y: -55.5}
+        - {x: 55.5, y: -49.5}
+        - {x: 55.5, y: 44.5}
+        - {x: 40.5, y: 55.5}
+    - name: Next Level Button
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 396
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 56}
+        - {x: -55, y: 30}
+        - {x: -55, y: -48}
+        - {x: -44, y: -56}
+        - {x: 30, y: -56}
+        - {x: 55, y: -44}
+        - {x: 55, y: 35}
+        - {x: 35, y: 56}
+    - name: Resume Game Button
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 396
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 56}
+        - {x: -55.5, y: 28}
+        - {x: -55.5, y: -56}
+        - {x: 54.5, y: -56}
+        - {x: 55.5, y: -50}
+        - {x: 55.5, y: 41}
+        - {x: 29.5, y: 56}
+    - name: Coin Score Button
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 307
+        width: 212
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 27.5}
+        - {x: -106, y: -19.5}
+        - {x: -101, y: -27.5}
+        - {x: 106, y: -27.5}
+        - {x: 106, y: 23.5}
+        - {x: 101, y: 27.5}
+    - name: Score
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 307
+        width: 289
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144.5, y: 25.5}
+        - {x: -144.5, y: -25.5}
+        - {x: 144.5, y: -25.5}
+        - {x: 144.5, y: 25.5}
+    - name: Pause Button
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 193
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 41.5}
+        - {x: -41, y: 38.5}
+        - {x: -41, y: -41.5}
+        - {x: 41, y: -41.5}
+        - {x: 41, y: 41.5}
+    - name: Coin UI
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 194
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 41}
+        - {x: -41, y: 36}
+        - {x: -41, y: -38}
+        - {x: -27, y: -41}
+        - {x: 33, y: -41}
+        - {x: 41, y: -37}
+        - {x: 41, y: 38}
+        - {x: 36, y: 41}
+    - name: Lock
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 174
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 91}
+        - {x: 29, y: 107}
+        - {x: -35, y: 107}
+        - {x: -52, y: 89}
+        - {x: -66, y: 54}
+        - {x: -87, y: 25}
+        - {x: -87, y: -96}
+        - {x: -79, y: -107}
+        - {x: 78, y: -107}
+        - {x: 87, y: -97}
+        - {x: 87, y: 23}
+        - {x: 85, y: 29}
+    - name: Facebook Icon
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 64}
+        - {x: -64, y: 56}
+        - {x: -64, y: -54}
+        - {x: -58, y: -64}
+        - {x: 58, y: -64}
+        - {x: 64, y: -59}
+        - {x: 64, y: 56}
+        - {x: 56, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
